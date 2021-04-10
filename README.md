@@ -1,5 +1,5 @@
 # Django-2
-Admin side code
+//Admin side code
 
 from django.contrib import admin
 
